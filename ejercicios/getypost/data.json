@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Prueba Local 1",
+        "body": "Este es un ejemplo de datos obtenidos localmente para el ID 1."
+    },
+    {
+        "id": 2,
+        "title": "Prueba Local 2",
+        "body": "Este es un ejemplo de datos obtenidos localmente para el ID 2."
+    }
+]
